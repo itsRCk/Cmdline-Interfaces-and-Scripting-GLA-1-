@@ -2,7 +2,7 @@
 Explanation: `whoami` to confirm my current login session and `groups` to list all security groups my account is associated with.  
 
 
-2. `pwd && ls -1`  
+2. `pwd && ls -l`  
 Explanation: `pwd` to print the absolute path of my current directory and `ls -l` to display files in long format.  
 
 
