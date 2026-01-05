@@ -18,7 +18,7 @@ Explanation: _wc_ command with _-m_ to count the exact number of characters in t
 Explanation: _mkdir --help_ command to study its documentation. _-p_ (parents) option, which allows the creation of nested subdirectories.  
 
 
-6. **ls ~**  
+6. **ls ~ **  
 Explanation: _ls ~_ command to target the home directory. The output displayed all user files and folders sorted alphabetically by default.  
 
 
