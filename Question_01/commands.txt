@@ -1,0 +1,19 @@
+whoami && groups
+
+pwd && ls -1
+
+echo "Linux user environment verified" > user_info.txt
+
+wc -m user_info.txt
+
+mkdir -p parent/child/g_child
+
+ls ~
+
+grep "admin" log.txt
+
+uname -r
+
+ping -c 4 google.com
+
+uptime
