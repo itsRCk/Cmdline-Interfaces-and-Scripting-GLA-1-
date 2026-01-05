@@ -1,4 +1,4 @@
-1. **whoami && groups**  
+1. `**whoami && groups**`  
 Explanation: _whoami_ to confirm my current login session and _groups_ to list all security groups my account is associated with.  
 
 
