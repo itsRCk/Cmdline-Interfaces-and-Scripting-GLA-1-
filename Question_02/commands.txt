@@ -1,0 +1,19 @@
+mkdir ~/documents
+
+cd ~/documents && touch plan.txt
+
+echo "sample text abcdefghijklmnopqrstuvwxyz" > plan.txt
+
+ls -l plan.txt
+
+cp plan.txt plan_copy.txt
+
+cd .. && mv documents project_documents
+
+mkdir ~/project_documents/archive
+
+mv ~/project_documents/plan_copy.txt ~/project_documents/archive
+
+ls -R ~/project_documents
+
+realpath ~/project_documents/archive/plan_copy.txt
